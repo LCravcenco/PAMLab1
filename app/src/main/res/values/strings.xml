@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PAM1</string>
+    <string name="main_btn">Verifica</string>
+    <string name="hint_user_field">Verifica</string>
+</resources>
